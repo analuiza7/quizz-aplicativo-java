@@ -6,3 +6,12 @@ margin: 0;
 box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+body{
+  backgroud: rgb(90, 0, 187);
+}
+
+::selection{
+  color: #fff;
+  backgroud: #007bff;
+}
